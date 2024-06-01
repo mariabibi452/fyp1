@@ -10,7 +10,7 @@
         android:id="@+id/textview1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome"
+        android:text="welcome to!"
         android:textSize="40dp"
         android:textColor="#ED5567E3"
         android:layout_marginTop="20dp"
